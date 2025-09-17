@@ -1,0 +1,2 @@
+(tfjs-env) nadiah@nadiah-ROG-Strix-G513IE-G513IE:~/Documents/PANSEALION/New_Jason_with_Full_Code$ tensorflowjs_converter   --input_format=keras   --output_format=tfjs_layers_model   --weight_shard_size_bytes=25000000   gesture_model.h5   gesture_model_tfjs
+
